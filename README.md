@@ -22,3 +22,11 @@ A Telegram Bot Written In Python With Pyrogram To Scrape Torrents From Various S
 4. `cp sample_config.py config.py`
 5. Edit `config.py` with your own values
 6. Run with `python3 main.py`
+
+## Usage
+
+1. `/start` - Shows start message.
+2. `/help` - Shows help message.
+3. `/torrent <query>` - Searches for a query.
+
+Join [Support Group](https://t.me/thehamkerchat) for help
