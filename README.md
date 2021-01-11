@@ -4,6 +4,8 @@ A Telegram Bot Written In Python With Pyrogram To Scrape Torrents From Various S
 
 [![Python](http://forthebadge.com/images/badges/made-with-python.svg)](https://python.org)
 
+<img src="https://i.imgur.com/zmPs86U.png">
+
 <img src="https://image.flaticon.com/icons/png/512/2292/2292290.png" width="160" align="right">
 
 ## Requirements
