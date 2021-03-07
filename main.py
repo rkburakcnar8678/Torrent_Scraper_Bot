@@ -44,7 +44,7 @@ async def torrent(_, message):
     m = await message.reply_text("Searching")
     try:
         async with aiohttp.ClientSession() as session:
-            async with session.get(f"{ARQ_API_BASE_URL}/torrent/{query}") \
+            async with session.get(f"{ARQ_API_BASE_URL}/torrent?query={query}") \
                     as resp:
                 a = json.loads(await resp.text())
     except:
